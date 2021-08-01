@@ -1,4 +1,4 @@
-# Text Mining & Image Recognition - Hoja de Trabajo 1
+# Text Mining & Image Recognition - Hojas de Trabajo
 
 **Nombre: José Alejandro López Quel**
 
@@ -8,4 +8,4 @@
 
 **Sección U**
 
-**Hoja de trabajo 1**
+**Hojas de trabajo**
