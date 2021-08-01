@@ -9,3 +9,8 @@
 **Sección U**
 
 **Hojas de trabajo**
+
+A continuación se muestran los archivos de las hojas de trabajo.
+
+- Hoja de Trabajo 1: Trabajando con Imagenes - [HojaTrabajo1_TM_IR_21001127.ipynb](https://github.com/alejandrolq/Text-Mining-Image-Recognition-Hojas-de-Trabajo/blob/main/HojaTrabajo1_TM_IR_21001127.ipynb "Hoja de Trabajo 1")
+- Hoja de Trabajo 2: inferencia y predicción. - [HojaTrabajo2_TM_IR_21001127.ipynb](https://github.com/alejandrolq/Text-Mining-Image-Recognition-Hojas-de-Trabajo/blob/main/HojaTrabajo2_TM_IR_21001127.ipynb "Hoja de Trabajo 2")
